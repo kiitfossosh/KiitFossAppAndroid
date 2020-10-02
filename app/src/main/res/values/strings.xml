@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KiitFossApp</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Members</string>
+    <string name="title_notifications">Form</string>
+</resources>
